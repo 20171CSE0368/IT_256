@@ -1,0 +1,34 @@
+a:link{
+	color:red;
+}
+a:visited{
+	color:green;
+}
+a:hover{
+	color:yellow;
+}
+a:active{
+	color:pink;
+}
+a.a{
+      color:green;
+      text-indent: 1.5em;
+      }
+a.b{
+	text-decoration:underline;
+      border-style:block;
+      text-indent: 1.5em;
+      }
+a.c{
+      border:2px solid green;
+      padding:5px;
+      text-indent: 1.5em;
+      }
+a.d{
+      background-color:red;
+      border:red;
+      padding:5px;
+      text-color:white;
+      text-indent: 1.5em;
+      }
+
